@@ -3,7 +3,7 @@
 # 💫 About Me:
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif" />
+  <img src="https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy.gif"/>
 </div>
 
 
