@@ -1,14 +1,11 @@
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1dIo6kDOPMzsnMOJTj/giphy.gif" />
+</div>
 
 # 💫 About Me:
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy.gif"/>
-</div>
-
-
- Holla! 👋😃
-
+👋😃
 Hey there, I'm Malindu Pabasara, a passionate:
 
 - 👨‍💻 Developer
