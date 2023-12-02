@@ -1,10 +1,21 @@
+
+
+# 💫 About Me:
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FcT1BFYoHwJxu/giphy.gif" />
 </div>
 
 
-# 💫 About Me:
-Holla 👋😃<br>I'm Malindu Pabasara<br>Final Year Computer Science Student
+ Holla! 👋😃
+
+Hey there, I'm Malindu Pabasara, a passionate:
+
+- 👨‍💻 Developer
+- 🎮 Gamer
+- 🏎️ F1 Enthusiast
+- 🎓 CS Undergraduate
+
 
 
 ## 🌐 Socials:
