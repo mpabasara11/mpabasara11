@@ -1,11 +1,11 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWczN3d1MWY4ZGFreTF3YXAyYnU5b3UzcjVmdGxod2x0Z2Jpd3VqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10FwycrnAkpshW/giphy.gif" width="150"/>
-</div>
+
 
 
 # 💫 About Me:
 Holla 👋😃<br>I'm Malindu Pabasara<br>Final Year Computer Science Student
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWczN3d1MWY4ZGFreTF3YXAyYnU5b3UzcjVmdGxod2x0Z2Jpd3VqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10FwycrnAkpshW/giphy.gif" width="150"/>
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mpabasara99) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mpabasara99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malindu-pabasara-738774219) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/malindupabasar8) 
