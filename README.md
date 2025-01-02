@@ -6,12 +6,13 @@
 # 💫 About Me:
 
 👋😃
-Hey there, I'm Malindu Pabasara, a passionate:
+Hey there, I'm Malindu Pabasara, :
 
-- 👨‍💻 Developer
+- 👨‍💻 Software Engineer 
 - 🎮 Gamer
-- 🏎️ F1 Enthusiast
+- 🏋️ Iron Athlete
 - 🎓 CS Undergraduate
+- 📲 Tech Enthusiast
 
 
 
