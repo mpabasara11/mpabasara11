@@ -29,8 +29,6 @@ Hey there, I'm Malindu Pabasara, :
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mpabasara11&icon=2&color=7)](https://visitcount.itsvg.in)
 
