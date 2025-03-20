@@ -26,9 +26,28 @@ jobs:
       run: |
         echo "Update at $(date)" >> commit_log.txt
         echo "Random commit content $(uuidgen)" >> commit_log.txt  # Adding random content for uniqueness
+        
+        # Check the status of the repo to make sure changes are detected
+        git status
+        
+        # Ensure that changes are added
         git add commit_log.txt
+        
+        # Check the git diff to confirm changes
+        git diff --cached
 
     - name: Commit changes
       run: |
+        # If there are changes, commit them
+        if git diff --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
         git commit -m "Multiple commit: $(date)"
+        
+        # Check the current branch before pushing
+        git branch
+        
+        # Push changes with proper authentication
         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
