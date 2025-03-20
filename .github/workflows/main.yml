@@ -25,9 +25,10 @@ jobs:
     - name: Create or modify a file and commit changes
       run: |
         echo "Update at $(date)" >> commit_log.txt
+        echo "Random commit content $(uuidgen)" >> commit_log.txt  # Adding random content for uniqueness
         git add commit_log.txt
 
     - name: Commit changes
       run: |
         git commit -m "Multiple commit: $(date)"
-        git push
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
